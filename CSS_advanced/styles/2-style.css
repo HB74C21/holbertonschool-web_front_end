@@ -8,3 +8,15 @@ body {
 a {
     color: #161616
 }
+
+.visually-hidden{
+    display: none;
+}
+
+.card-category{
+    color: #D73953;
+}
+
+.section-category{
+    color: #D73953
+}
