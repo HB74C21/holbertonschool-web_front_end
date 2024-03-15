@@ -153,7 +153,7 @@ ul.row {
 }
 
 .social-link > svg {
-    fill: --te;
+    fill: var(--text-color);
 }
 
 :root {
