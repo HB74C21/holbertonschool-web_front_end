@@ -39,7 +39,6 @@ a {
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
     color: var(--section-title-color);
-    
 }
 
 .section-tagline {
