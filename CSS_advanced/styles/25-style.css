@@ -161,6 +161,7 @@ ul.row {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background: var(--color-black);
+    --buton-color: var(--color-white);
 }
 
 .social-link {
@@ -186,8 +187,6 @@ ul.row {
     background-color: var(--color-primary);
     text-decoration: none;
 }
-
-
 
 :root {
     --color-primary: #D73953;
